@@ -19,3 +19,7 @@ All languages data can be found from [here](https://github.com/xiaolancara/Engli
 
 ![prediction](https://github.com/xiaolancara/English_to_French_Translator/blob/main/results/predicted%20translation%20to%20french.JPG)
 ![Performance](https://github.com/xiaolancara/English_to_French_Translator/blob/main/results/model%20performance.JPG)
+
+# Model Architecture (Embedding + RNN)
+
+![Architecture](https://github.com/xiaolancara/English_to_French_Translator/blob/main/embed_rnn_model.png)
