@@ -17,5 +17,5 @@ All languages data can be found from [here](https://github.com/xiaolancara/Engli
 
 # Model Prediction & Performance
 
-[!prediction](https://github.com/xiaolancara/English_to_French_Translator/blob/main/results/predicted%20translation%20to%20french.JPG)
-[!Performance](https://github.com/xiaolancara/English_to_French_Translator/blob/main/results/model%20performance.JPG)
+![prediction](https://github.com/xiaolancara/English_to_French_Translator/blob/main/results/predicted%20translation%20to%20french.JPG)
+![Performance](https://github.com/xiaolancara/English_to_French_Translator/blob/main/results/model%20performance.JPG)
