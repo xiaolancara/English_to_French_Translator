@@ -13,7 +13,7 @@ The RNN with Embedding model performs **92%** accuracy.
 
 (I tried to use it on chinese Language bu using tokenized package jieba but it performs not good. It may depend on the dataset and the language structure of chinese.)
 
-All languages data can be found from [here](https://github.com/xiaolancara/English_to_French_Translator/tree/main/data)
+All languages data are under [data folder](https://github.com/xiaolancara/English_to_French_Translator/tree/main/data)
 
 # Model Prediction & Performance
 
@@ -23,3 +23,8 @@ All languages data can be found from [here](https://github.com/xiaolancara/Engli
 # Model Architecture (Embedding + RNN)
 
 ![Architecture](https://github.com/xiaolancara/English_to_French_Translator/blob/main/embed_rnn_model.png)
+
+# OCR for image
+This project can also apply with OCR for image to be a image translation project
+
+Code can be found from [OCR.ipynb](https://github.com/xiaolancara/English_to_French_Translator/blob/main/OCR/OCR.ipynb)
