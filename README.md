@@ -11,7 +11,7 @@ The RNN with Embedding model performs **92%** accuracy.
 
 (This project can use in Spanish Language too!)
 
-(I tried to use it on chinese Language bu using tokenized package jieba but it performs not good. It may depend on the dataset and the language structure of chinese.)
+(I tried to use it on chinese Language by using tokenized package jieba but it performs not good. It may depend on the dataset and the language structure of chinese.)
 
 All languages data are under [data folder](https://github.com/xiaolancara/English_to_French_Translator/tree/main/data)
 
